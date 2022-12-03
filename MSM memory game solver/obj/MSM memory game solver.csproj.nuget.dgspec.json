@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nolan\\Documents\\MSM memory game solver\\MSM memory game solver\\MSM memory game solver.csproj": {}
+    "D:\\My-Singing-Monsters-Memory-Game-Solver\\MSM memory game solver\\MSM memory game solver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nolan\\Documents\\MSM memory game solver\\MSM memory game solver\\MSM memory game solver.csproj": {
+    "D:\\My-Singing-Monsters-Memory-Game-Solver\\MSM memory game solver\\MSM memory game solver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nolan\\Documents\\MSM memory game solver\\MSM memory game solver\\MSM memory game solver.csproj",
+        "projectUniqueName": "D:\\My-Singing-Monsters-Memory-Game-Solver\\MSM memory game solver\\MSM memory game solver.csproj",
         "projectName": "MSM memory game solver",
-        "projectPath": "C:\\Users\\Nolan\\Documents\\MSM memory game solver\\MSM memory game solver\\MSM memory game solver.csproj",
+        "projectPath": "D:\\My-Singing-Monsters-Memory-Game-Solver\\MSM memory game solver\\MSM memory game solver.csproj",
         "packagesPath": "C:\\Users\\Nolan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nolan\\Documents\\MSM memory game solver\\MSM memory game solver\\obj\\",
+        "outputPath": "D:\\My-Singing-Monsters-Memory-Game-Solver\\MSM memory game solver\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nolan\\AppData\\Roaming\\NuGet\\NuGet.Config",

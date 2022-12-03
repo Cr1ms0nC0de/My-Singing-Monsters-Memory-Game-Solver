@@ -9,9 +9,10 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        String file1 = "MSM Images\\monster_portrait_random.png";
-        String file2 = "Capture2.png";
-        Bitmap image1 = AForge.Imaging.Image.FromFile(file1);
+        //String file1 = "MSM Images\\monster_portrait_random.png";
+        //Bitmap image1 = AForge.Imaging.Image.FromFile(file1);
+        String file = "Capture2.png";
+        
         int screenWidth = 2560;
         int screenHeight = 1440;
         int imageSize = 265;
@@ -20,13 +21,13 @@ internal class Program
         Console.WriteLine("Started");
 
         System.Drawing.Image backgroundImage = CaptureScreen(0, 0, 0, 0, new Size(screenWidth, screenHeight));
-        System.Drawing.Image targetImage = CaptureScreen(100, 100, 0, 0, new Size(imageSize, imageSize));
+        //System.Drawing.Image targetImage = CaptureScreen(100, 100, 0, 0, new Size(imageSize, imageSize));
 
         Bitmap backgroundBmp = new Bitmap(backgroundImage);
-        Bitmap targetBmp = new Bitmap(file2);
+        Bitmap targetBmp = new Bitmap(file);
+
         backgroundBmp = ConvertToFormat(backgroundBmp, PixelFormat.Format24bppRgb);
         targetBmp = ConvertToFormat(targetBmp, PixelFormat.Format24bppRgb);
-        backgroundBmp.Save("output\\image" + 0 + ".png");
 
         CompareImages(backgroundBmp, targetBmp);
     }

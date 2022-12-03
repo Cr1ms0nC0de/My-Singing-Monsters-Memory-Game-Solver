@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lciSJ5rIPELE3tw3uVpGsLl9vvNt9SjV+DuA0+/Cep3Iwk83glembq9aXo3oqqrDr2m/2TFtSr2UMIMMNgqsTw==",
+  "dgSpecHash": "eJhUH8jF0SwizpppbStVYGHhi5K55zezgjwNVz/DkNaotv60/9BKOMhvDYKebqeXJRxH6cK0w/CmPQAksydq5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nolan\\Documents\\MSM memory game solver\\MSM memory game solver\\MSM memory game solver.csproj",
+  "projectFilePath": "D:\\My-Singing-Monsters-Memory-Game-Solver\\MSM memory game solver\\MSM memory game solver.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nolan\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\Nolan\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
