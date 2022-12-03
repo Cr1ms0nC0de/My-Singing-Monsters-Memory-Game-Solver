@@ -1,0 +1,26 @@
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\MSM memory game solver.exe
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\MSM memory game solver.deps.json
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\MSM memory game solver.runtimeconfig.json
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\MSM memory game solver.dll
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\MSM memory game solver.pdb
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\obj\Debug\net6.0\MSM memory game solver.csproj.AssemblyReference.cache
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\obj\Debug\net6.0\MSM memory game solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\obj\Debug\net6.0\MSM memory game solver.AssemblyInfoInputs.cache
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\obj\Debug\net6.0\MSM memory game solver.AssemblyInfo.cs
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\obj\Debug\net6.0\MSM memory game solver.csproj.CoreCompileInputs.cache
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\obj\Debug\net6.0\MSM memory game solver.dll
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\obj\Debug\net6.0\refint\MSM memory game solver.dll
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\obj\Debug\net6.0\MSM memory game solver.pdb
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\obj\Debug\net6.0\MSM memory game solver.genruntimeconfig.cache
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\obj\Debug\net6.0\ref\MSM memory game solver.dll
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\AForge.Imaging.dll
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\AForge.dll
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\AForge.Math.dll
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\AForge.Imaging.xml
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\AForge.xml
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\bin\Debug\net6.0\AForge.Math.xml
+C:\Users\Nolan\Documents\MSM memory game solver\MSM memory game solver\obj\Debug\net6.0\MSM memory game solver.csproj.CopyComplete
